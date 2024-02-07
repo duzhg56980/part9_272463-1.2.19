@@ -1,0 +1,6 @@
+import com.alibaba.fastjson.serializer.AfterFilter;
+public class FunctionUse895 {
+public void funcUse() {
+AfterFilter afterfilter = new AfterFilter();
+}
+}
